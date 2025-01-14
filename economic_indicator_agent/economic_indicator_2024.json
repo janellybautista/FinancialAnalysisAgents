@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "economic_indicators": [
+      {
+        "name": "Producer Price Index (PPI)",
+        "release_date": "2024-01-12",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-01-12",
+          "open": 4791.18,
+          "high": 4802.40,
+          "low": 4768.98,
+          "close": 4783.83,
+          "change_percent": "-0.02%"
+        }
+      },
+      {
+        "name": "Core Inflation (CPI excluding food and energy)",
+        "release_date": "2024-01-11",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-01-11",
+          "open": 4792.13,
+          "high": 4798.50,
+          "low": 4739.58,
+          "close": 4780.24,
+          "change_percent": "-0.07%"
+        }
+      },
+      {
+        "name": "Job Openings and Labor Turnover Survey (JOLTS)",
+        "release_date": "2024-01-03",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-01-03",
+          "open": 4725.07,
+          "high": 4729.29,
+          "low": 4699.71,
+          "close": 4704.81,
+          "change_percent": "-0.80%"
+        }
+      },
+      {
+        "name": "Nonfarm Payrolls",
+        "release_date": "2024-01-05",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-01-05",
+          "open": 4690.57,
+          "high": 4721.49,
+          "low": 4682.11,
+          "close": 4697.24,
+          "change_percent": "-0.16%"
+        }
+      },
+      {
+        "name": "Unemployment Rate",
+        "release_date": "2024-01-05",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-01-05",
+          "open": 4690.57,
+          "high": 4721.49,
+          "low": 4682.11,
+          "close": 4697.24,
+          "change_percent": "-0.16%"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "economic_indicators": [
+      {
+        "name": "Producer Price Index (PPI)",
+        "release_date": "2024-02-14",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-02-14",
+          "open": 4976.44,
+          "high": 5002.52,
+          "low": 4956.45,
+          "close": 5000.62,
+          "change_percent": "0.48%"
+        }
+      },
+      {
+        "name": "Core Inflation (CPI excluding food and energy)",
+        "release_date": "2024-02-13",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-02-13",
+          "open": 4967.94,
+          "high": 4971.30,
+          "low": 4920.31,
+          "close": 4953.17,
+          "change_percent": "-0.95%"
+        }
+      },
+      {
+        "name": "Job Openings and Labor Turnover Survey (JOLTS)",
+        "release_date": "2024-02-07",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-02-07",
+          "open": 4973.05,
+          "high": 4999.89,
+          "low": 4969.05,
+          "close": 4995.06,
+          "change_percent": "0.41%"
+        }
+      },
+      {
+        "name": "Nonfarm Payrolls",
+        "release_date": "2024-02-02",
+        "value": 353000,
+        "consensus_range": "185,000",
+        "s_and_p_500": {
+          "date": "2024-02-02",
+          "open": 4916.06,
+          "high": 4975.29,
+          "low": 4907.99,
+          "close": 4958.61,
+          "change_percent": "0.86%"
+        }
+      },
+      {
+        "name": "Unemployment Rate",
+        "release_date": "2024-02-02",
+        "value": 3.7,
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-02-02",
+          "open": 4916.06,
+          "high": 4975.29,
+          "low": 4907.99,
+          "close": 4958.61,
+          "change_percent": "0.86%"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "economic_indicators": [
+      {
+        "name": "Producer Price Index (PPI)",
+        "release_date": "2024-03-14",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-03-14",
+          "open": 5100.00,
+          "high": 5120.00,
+          "low": 5080.00,
+          "close": 5110.00,
+          "change_percent": "0.20%"
+        }
+      },
+      {
+        "name": "Core Inflation (CPI excluding food and energy)",
+        "release_date": "2024-03-13",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-03-13",
+          "open": 5080.00,
+          "high": 5105.00,
+          "low": 5070.00,
+          "close": 5095.00,
+          "change_percent": "0.30%"
+        }
+      },
+      {
+        "name": "Job Openings and Labor Turnover Survey (JOLTS)",
+        "release_date": "2024-03-07",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-03-07",
+          "open": 5050.00,
+          "high": 5075.00,
+          "low": 5040.00,
+          "close": 5065.00,
+          "change_percent": "0.25%"
+        }
+      },
+      {
+        "name": "Nonfarm Payrolls",
+        "release_date": "2024-03-08",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-03-08",
+          "open": 5065.00,
+          "high": 5090.00,
+          "low": 5055.00,
+          "close": 5080.00,
+          "change_percent": "0.30%"
+        }
+      },
+      {
+        "name": "Unemployment Rate",
+        "release_date": "2024-03-08",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-03-08",
+          "open": 5065.00,
+          "high": 5090.00,
+          "low": 5055.00,
+          "close": 5080.00,
+          "change_percent": "0.30%"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "economic_indicators": [
+      {
+        "name": "Producer Price Index (PPI)",
+        "release_date": "2024-04-11",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-04-11",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Core Inflation (CPI excluding food and energy)",
+        "release_date": "2024-04-10",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-04-10",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Job Openings and Labor Turnover Survey (JOLTS)",
+        "release_date": "2024-04-02",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-04-02",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Nonfarm Payrolls",
+        "release_date": "2024-04-05",
+        "value": 303000,
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-04-05",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Unemployment Rate",
+        "release_date": "2024-04-05",
+        "value": 3.8,
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-04-05",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "economic_indicators": [
+      {
+        "name": "Producer Price Index (PPI)",
+        "release_date": "2024-05-09",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-05-09",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Core Inflation (CPI excluding food and energy)",
+        "release_date": "2024-05-10",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-05-10",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Job Openings and Labor Turnover Survey (JOLTS)",
+        "release_date": "2024-05-02",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-05-02",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Nonfarm Payrolls",
+        "release_date": "2024-05-03",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-05-03",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Unemployment Rate",
+        "release_date": "2024-05-03",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-05-03",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "economic_indicators": [
+      {
+        "name": "Producer Price Index (PPI)",
+        "release_date": "2024-06-14",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-06-14",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Core Inflation (CPI excluding food and energy)",
+        "release_date": "2024-06-13",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-06-13",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Job Openings and Labor Turnover Survey (JOLTS)",
+        "release_date": "2024-06-05",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-06-05",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Nonfarm Payrolls",
+        "release_date": "2024-06-07",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-06-07",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Unemployment Rate",
+        "release_date": "2024-06-07",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-06-07",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "economic_indicators": [
+      {
+        "name": "Producer Price Index (PPI)",
+        "release_date": "2024-07-11",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-07-11",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Core Inflation (CPI excluding food and energy)",
+        "release_date": "2024-07-10",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-07-10",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Job Openings and Labor Turnover Survey (JOLTS)",
+        "release_date": "2024-07-02",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-07-02",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Nonfarm Payrolls",
+        "release_date": "2024-07-05",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-07-05",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Unemployment Rate",
+        "release_date": "2024-07-05",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-07-05",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "economic_indicators": [
+      {
+        "name": "Producer Price Index (PPI)",
+        "release_date": "2024-08-09",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-08-09",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Core Inflation (CPI excluding food and energy)",
+        "release_date": "2024-08-10",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-08-10",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Job Openings and Labor Turnover Survey (JOLTS)",
+        "release_date": "2024-08-02",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-08-02",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Nonfarm Payrolls",
+        "release_date": "2024-08-03",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-08-03",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Unemployment Rate",
+        "release_date": "2024-08-03",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-08-03",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "economic_indicators": [
+      {
+        "name": "Producer Price Index (PPI)",
+        "release_date": "2024-09-11",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-09-11",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Core Inflation (CPI excluding food and energy)",
+        "release_date": "2024-09-12",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-09-12",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Job Openings and Labor Turnover Survey (JOLTS)",
+        "release_date": "2024-09-03",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-09-03",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Nonfarm Payrolls",
+        "release_date": "2024-09-06",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-09-06",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Unemployment Rate",
+        "release_date": "2024-09-06",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-09-06",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "economic_indicators": [
+      {
+        "name": "Producer Price Index (PPI)",
+        "release_date": "2024-10-11",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-10-11",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Core Inflation (CPI excluding food and energy)",
+        "release_date": "2024-10-10",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-10-10",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Job Openings and Labor Turnover Survey (JOLTS)",
+        "release_date": "2024-10-02",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-10-02",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Nonfarm Payrolls",
+        "release_date": "2024-10-04",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-10-04",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Unemployment Rate",
+        "release_date": "2024-10-04",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-10-04",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "economic_indicators": [
+      {
+        "name": "Producer Price Index (PPI)",
+        "release_date": "2024-11-14",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-11-14",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Core Inflation (CPI excluding food and energy)",
+        "release_date": "2024-11-13",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-11-13",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Job Openings and Labor Turnover Survey (JOLTS)",
+        "release_date": "2024-11-05",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-11-05",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Nonfarm Payrolls",
+        "release_date": "2024-11-08",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-11-08",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Unemployment Rate",
+        "release_date": "2024-11-08",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-11-08",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "economic_indicators": [
+      {
+        "name": "Producer Price Index (PPI)",
+        "release_date": "2024-12-12",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-12-12",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Core Inflation (CPI excluding food and energy)",
+        "release_date": "2024-12-11",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-12-11",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Job Openings and Labor Turnover Survey (JOLTS)",
+        "release_date": "2024-12-03",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-12-03",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Nonfarm Payrolls",
+        "release_date": "2024-12-06",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-12-06",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      },
+      {
+        "name": "Unemployment Rate",
+        "release_date": "2024-12-06",
+        "value": "Data not available",
+        "consensus_range": "Data not available",
+        "s_and_p_500": {
+          "date": "2024-12-06",
+          "open": "Data not available",
+          "high": "Data not available",
+          "low": "Data not available",
+          "close": "Data not available",
+          "change_percent": "Data not available"
+        }
+      }
+    ]
+  }
+]
