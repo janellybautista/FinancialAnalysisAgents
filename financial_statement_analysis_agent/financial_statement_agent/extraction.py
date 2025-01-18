@@ -4,13 +4,12 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from openai import OpenAI, OpenAIError
 
+# Initialize OpenAI
+client = OpenAI(api_key="add_key_here")
 
 
 ##########################################################
 #Functions
-
-# Initialize OpenAI
-client = OpenAI(api_key="add_key_here")
 
 ### Defining functions
 # Extract text from PDF
